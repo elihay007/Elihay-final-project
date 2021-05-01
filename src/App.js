@@ -29,10 +29,10 @@ function App() {
     <Router>
     <div className="App" >
     
-       <Link to="/">Home</Link>
-        <Link to="/About">About</Link>
-        <Link to="/Contact">Contact </Link>
-        <Link to="/Courses_And_Academy">Courses And Academy</Link>
+       <Link to="/">Home  /</Link>
+        <Link to="/About">About   /</Link>
+        <Link to="/Contact">Contact    /</Link>
+        <Link to="/Courses_And_Academy">Courses And Academy   /</Link>
         <Link to="/Protfolio_career">Protfolio_career</Link>
         <Switch>
           <Route exact path="/">
