@@ -1,0 +1,41 @@
+.App {
+   text-align: center;
+  top: 100%;
+  background-color: black;
+  font-size: 1.2rem;
+  
+  
+  
+  
+          
+
+
+  /* position: relative; */
+  /* margin: 16px; */
+   
+  /* border-bottom: 3px solid red; */
+  /* margin-left: 30px; */
+  /* margin: 1rem; */
+}
+
+
+
+.span_Elihay {
+  
+  color: #f81010;
+  font-size: 25px;
+  padding: 1px 5px;
+}
+.span_Bizawi {
+  
+  color: yellow;
+  font-size: 25px;
+  padding: 1px 5px;
+}
+
+#top-menu {
+  
+  background-color: black;
+  
+}
+
